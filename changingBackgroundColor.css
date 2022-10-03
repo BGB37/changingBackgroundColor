@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn {
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    border-color: orange;
+    background-color: aqua;
+    font-family: 'Peralta', cursive;
+    font-size: 16px;
+}
